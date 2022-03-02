@@ -5,6 +5,7 @@ public class Demo
 <<<<<<< HEAD
 =======
 	//hi from github
+	//hi
 	
 >>>>>>> branch 'master' of https://github.com/rajesh200893/selenium1.git
 }
